@@ -1,0 +1,17 @@
+{
+  "name": "online-book-library",
+  "version": "1.0.0",
+  "description": "Online Book Library Single Page Application",
+  "main": "index.html",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.25",
+    "http-server": "^14.1.1",
+    "playwright-chromium": "1.9.2"
+  }
+}
